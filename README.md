@@ -1,4 +1,4 @@
-# Infernal Sample Dapp 
+# Infernal Simple Dapp 
 
 
 

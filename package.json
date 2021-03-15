@@ -1,6 +1,6 @@
 {
-  "name": "matic-0xbtc-wallet",
-  "description": "Web wallet for 0xBTC for the Ethereum and Matic Networks",
+  "name": "infernal-simple-dapp",
+  "description": "Sample dapp for Ethereum",
   "version": "0.1.0",
   "private": true,
   "scripts": {
