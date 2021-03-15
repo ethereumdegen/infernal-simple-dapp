@@ -1,7 +1,16 @@
 # Infernal Simple Dapp 
 
+This is a sample dapp using Metamask and Web.  This uses vue-cli template and NodeJS.   
+
+The HTML frontend template is located at public/index.html.   Views are located in src/views.  The router file is located at src/router/js.  
 
 
+To install NPM, see:
+https://docs.0xbitcoin.org 
+
+
+## Deployed on Vercel
+https://infernal-simple-dapp.vercel.app/
 
 
 ### Development commands
