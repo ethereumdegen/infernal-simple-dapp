@@ -2,7 +2,7 @@
 
 This is a sample dapp using Metamask and Web3.  This uses vue-cli template and NodeJS.   
 
-The HTML frontend template is located at public/index.html.   Views are located in src/views.  The router file is located at src/router/js.  
+The HTML frontend template is located at public/index.html.   Views are located in src/views.  The router file is located at src/router.js.  
 
 This uses the ZapperFi contracts as a sample. 
 
