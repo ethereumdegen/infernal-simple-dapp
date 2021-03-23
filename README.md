@@ -7,7 +7,7 @@ The HTML frontend template is located at public/index.html.   Views are located 
 This uses the ZapperFi contracts as a sample. 
 
 To install NPM, see:
-https://docs.0xbitcoin.org 
+https://docs.0xbitcoin.org/general-ethereum-development/setup-installation
 
 
 ## Deployed on Vercel
