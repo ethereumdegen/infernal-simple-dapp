@@ -10,6 +10,11 @@ import './css/normalize.css'
 import './css/webflow.css'
 import './css/0xbtc.webflow.css'
 
+
+import './css/tailwind.css'
+
+
+
 Vue.config.productionTip = false
 
 Vue.use(VueTailwind)
