@@ -17,6 +17,7 @@ https://infernal-simple-dapp.vercel.app/
 ### Development commands
 ```
 nvm install 14
+nvm use 14
 npm install
 npm run dev
 ```
