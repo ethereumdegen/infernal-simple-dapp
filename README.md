@@ -14,6 +14,9 @@ https://docs.0xbitcoin.org/general-ethereum-development/setup-installation
 https://infernal-simple-dapp.vercel.app/
 
 
+This dapp works on Kovan or Mainnet and automatically detects chainId from metamask 
+
+
 ### Development commands
 ```
 nvm install 14
